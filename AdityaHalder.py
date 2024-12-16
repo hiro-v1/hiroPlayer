@@ -47,7 +47,7 @@ loop = asyncio.get_event_loop()
 
 # versions dictionary
 __version__ = {
-    "AP": "1.0.0 Mini",
+    "AP": "1.0.0 mini",
     "Python": platform.python_version(),
     "Pyrogram": pyro_version,
     "PyTgCalls": pytgcalls_version,
@@ -756,7 +756,7 @@ async def stream_logger(
             if position:
                 caption = f"""**✅ Added To Queue At :** `#{position}`
 
-**🥀 Title:** {title}
+**🥀 judul:** {title}
 **🐬 Duration:** {duration}
 **🦋 Stream Type:** {stream_type}
 **🌺 Chat Name:** {chat_name}
@@ -765,7 +765,7 @@ async def stream_logger(
             else:
                 caption = f"""**✅ Started Streaming On VC.**
 
-**🥀 Title:** {title}
+**🥀 judul:** {title}
 **🐬 Duration:** {duration}
 **🦋 Stream Type:** {stream_type}
 **🌺 Chat Name:** {chat_name}
@@ -826,7 +826,7 @@ async def change_stream(chat_id):
     await add_active_media_chat(chat_id, stream_type)
     caption = f"""**✅ Started Streaming On VC.**
 
-**🥀 Title:** {title}
+**🥀 judul:** {title}
 **🐬 Duration:** {duration}
 **🦋 Stream Type:** {stream_type}
 **👾 Requested By:** {requested_by}"""
@@ -1031,7 +1031,7 @@ async def stream_audio_or_video(client, message):
                 )
                 caption = f"""**✅ Added To Queue At :** `#{position}`
 
-**🥀 Title:** {title}
+**🥀 judul:** {title}
 **🐬 Duration:** {duration}
 **🦋 Stream Type:** {stream_type}
 **👾 Requested By:** {requested_by}"""
@@ -1138,7 +1138,7 @@ async def stream_audio_or_video(client, message):
                 )
                 caption = f"""**✅ Started Streaming On VC.**
 
-**🥀 Title:** {title}
+**🥀 judul:** {title}
 **🐬 Duration:** {duration}
 **🦋 Stream Type:** {stream_type}
 **👾 Requested By:** {requested_by}"""
@@ -1334,8 +1334,8 @@ With Your ☛ Other Friends.**"""
         [
             [
                 InlineKeyboardButton(
-                    text="🌺 Open Repository Link 🦋",
-                    url="https://github.com/AdityaHalder/AdityaPlayer",
+                    text="🌺 informasi lain 🦋",
+                    url="https://t.me/MLBBShopHiro",
                 )
             ],
             [
@@ -1407,7 +1407,7 @@ async def check_bot_stats(client, message):
     except:
         pass
     photo = START_IMAGE_URL
-    caption = "**⏤͟͞ADITYA PLAYER STATS ༗**"
+    caption = "**hiro_v1 PLAYER STATS ༗**"
     buttons = InlineKeyboardMarkup(
         [
             [
