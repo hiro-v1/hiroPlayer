@@ -78,12 +78,12 @@ LOGGER = logging.getLogger("SYSTEM")
 if os.path.exists("Config.env"):
     load_dotenv("Config.env")
 
-API_ID = int(getenv("API_ID", 25802693))
-API_HASH = getenv("API_HASH", 803393e9f1b6ea523853ce2126208c17)
-BOT_TOKEN = getenv("BOT_TOKEN", 8188904216:AAEz1PZGamqtR06gmQlC_Sg7Bx6dTVzLgs4)
-STRING_SESSION = getenv("STRING_SESSION", 1BVtsOJYBu3QPdqKzWyzZzvFo7GlxBSW0PrtTeEoRkQ3oOvWVh1AGTAuZfwOfYDHJbSpoe_CsKFS0jzonTD_950vJbkQQOmlQlQXXv7J5G8rXY9GLwlt5S9BhkbVcIZtphDNi-v3WnUneWYzr9MvEqVJNwIMsUvah-1XxRDWx5ZQMwDcC6UIF9HCYAL_ocAUfcp71sZHKtvJx7KXt4a5GMfIQ7DMvfYpQpQWKt75qMnWih-dQrewyXb7Mg127FVLmX6wQu-WGQzeqN7Fq4nYGrOh0_RsYrt6BlhKiBt0v8l6LzZnAhl8IrrwOQuZrcqKKeAZ5Muatdn8gmCJ1LQNmmA_VreTAeKc=)
+API_ID = int(getenv("API_ID",25802693))
+API_HASH = getenv("API_HASH",803393e9f1b6ea523853ce2126208c17)
+BOT_TOKEN = getenv("BOT_TOKEN",8188904216:AAEz1PZGamqtR06gmQlC_Sg7Bx6dTVzLgs4)
+STRING_SESSION = getenv("STRING_SESSION",1BVtsOJYBu3QPdqKzWyzZzvFo7GlxBSW0PrtTeEoRkQ3oOvWVh1AGTAuZfwOfYDHJbSpoe_CsKFS0jzonTD_950vJbkQQOmlQlQXXv7J5G8rXY9GLwlt5S9BhkbVcIZtphDNi-v3WnUneWYzr9MvEqVJNwIMsUvah-1XxRDWx5ZQMwDcC6UIF9HCYAL_ocAUfcp71sZHKtvJx7KXt4a5GMfIQ7DMvfYpQpQWKt75qMnWih-dQrewyXb7Mg127FVLmX6wQu-WGQzeqN7Fq4nYGrOh0_RsYrt6BlhKiBt0v8l6LzZnAhl8IrrwOQuZrcqKKeAZ5Muatdn8gmCJ1LQNmmA_VreTAeKc=)
 MONGO_DB_URL = getenv("MONGO_DB_URL",mongodb+srv://mamanasman12:manasman1234@cluster0.yusg2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
-OWNER_ID = int(getenv("OWNER_ID", 5634309575))
+OWNER_ID = int(getenv("OWNER_ID",5634309575))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002159401394))
 START_IMAGE_URL = getenv("START_IMAGE_URL", https://ibb.co.com/FxZnxWG)
 
