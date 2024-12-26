@@ -1,20 +1,19 @@
 # Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
 
-.youtube.com	TRUE	/	FALSE	1740980187	_gcl_au	1.1.1934276254.1733204187
-.youtube.com	TRUE	/	TRUE	1769755967	PREF	tz=Asia.Jakarta&f4=4000000&f6=40000000&f7=100&f5=20000&repeat=NONE&autoplay=true&guide_collapsed=true
-.ssyoutube.com	TRUE	/	FALSE	1768386921	_ga	GA1.1.1660856659.1733826920
-ssyoutube.com	FALSE	/	FALSE	1768386920	uid	7359469df6114f8f
-ssyoutube.com	FALSE	/	FALSE	1736418920	pushNotification	8
-ssyoutube.com	FALSE	/	FALSE	1736418920	errorClickAds	96
-ssyoutube.com	FALSE	/	FALSE	1736418920	clickAds	57
-ssyoutube.com	FALSE	/	FALSE	1736418920	koreanBnr	47
-ssyoutube.com	FALSE	/	FALSE	1736418920	widgetPartnerApp	73
-ssyoutube.com	FALSE	/	FALSE	1736418920	helperWidget	7
-ssyoutube.com	FALSE	/	FALSE	1736418920	errorTime	10
-ssyoutube.com	FALSE	/	FALSE	1768386923	_fcOM	{"k":"527f50189e729d2e-2a3f32f4193b01eedc8-f17","i":"202.51.199.251.89232","r":1733826923927}
-.ssyoutube.com	TRUE	/	FALSE	1768386942	_ga_7NLFQPTFP1	GS1.1.1733826920.1.1.1733826942.0.0.0
-.ssyoutube.com	TRUE	/	FALSE	1768386942	_ga_PD78F4NZTG	GS1.1.1733826921.1.1.1733826942.0.0.0
-.youtube.com	TRUE	/	TRUE	1735197691	GPS	1
-.youtube.com	TRUE	/	TRUE	1735196539	CONSISTENCY	AKreu9uB9VXMh10YAkeX5lFoHxgAbtfApy0FTUGJ-IY2puF_LB_46LYeDnz12oKArvFMsoUB6JgmI4egkgTZQ8eA0mkdvhMz0V2QQSOIhiyQD_4fYsJp0aYZwDgtLcA6GoCkMlin7fZtvyEXo1vXN6A
+.youtube.com	TRUE	/	TRUE	1750678755	VISITOR_INFO1_LIVE	LoBjhWpybU8
+.youtube.com	TRUE	/	TRUE	1750678755	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgYw%3D%3D
+.youtube.com	TRUE	/	TRUE	1769686756	PREF	tz=Asia.Kolkata
+.youtube.com	TRUE	/	FALSE	1733771486	ST-1jxui4b	csn=RbADyw9CZso-S2fX&itct=CHgQh_YEGAEiEwjr87yGspuKAxVp9qACHSEnIc9aD0ZFd2hhdF90b193YXRjaJoBBQgkEI4e
+.youtube.com	TRUE	/	FALSE	1733771486	ST-u71uml	csn=RbADyw9CZso-S2fX&itct=CHAQh_YEGAMiEwjr87yGspuKAxVp9qACHSEnIc9aD0ZFd2hhdF90b193YXRjaJoBBQgkEI4e
+.youtube.com	TRUE	/	FALSE	1735126437	ST-chptzg	csn=dKW4btl5p3USw4yu&itct=CHAQh_YEGAMiEwimgZnS6cKKAxXXLrcAHeGfINRaD0ZFd2hhdF90b193YXRjaJoBBQgkEI4e
+.youtube.com	TRUE	/	FALSE	1735126441	ST-18tk1gn	csn=dKW4btl5p3USw4yu&itct=CIEBELs3GAAiEwimgZnS6cKKAxXXLrcAHeGfINQyCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1735126445	ST-15u3jin	csn=Z4fgcVH0_Xr5lLwF&itct=CFoQyCAYASITCOv8l9bpwooDFasSgwMdcHkUejIDQkZhSNOa7bfmh_GWcpoBBQgMEPgd
+.youtube.com	TRUE	/	FALSE	1735126468	ST-211uww	csn=qWiqtTDBZgdWwVET&itct=CH0Q_FoiEwj8sY7h6cKKAxWEgGMGHcKrD6UyCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1735126557	ST-69yaa5	csn=V7ee7WMMvLBDkH8t&itct=CGsQ_FoYACITCM2EvYzqwooDFZihSwUd86o1uDIGc2VhcmNoUghvcmUgcGl5YZoBAxD0JA%3D%3D
+.youtube.com	TRUE	/	FALSE	1735126569	ST-wv7pqz	csn=i-NlaZItz36Icsaj&itct=CAYQ6qgHGAAiEwiu07WS6sKKAxWJjtgFHToiNyY%3D
+.youtube.com	TRUE	/	TRUE	1735128375	GPS	1
+.youtube.com	TRUE	/	TRUE	0	YSC	FYHvzcH5jDc
+.youtube.com	TRUE	/	FALSE	1735126767	ST-ffv2ob	csn=Wrbum23R7oGC2Z1w&itct=CFYQ_FoiEwiZiMjv6sKKAxVbU_UFHSXkNbUyCmctaGlnaC1yZWNaD0ZFd2hhdF90b193YXRjaJoBBhCOHhieAQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1735126815	ST-tca0cd	csn=hkmGNBZgt83icwFi&itct=CIgBEPxaGAAiEwjlpdHx6sKKAxW3hdgFHWxrE4AyB3JlbGF0ZWRIw6aPnceJk5iGAZoBBQgBEPgd
